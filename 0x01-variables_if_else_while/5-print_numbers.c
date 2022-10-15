@@ -11,6 +11,5 @@ int main(void)
 
 	for (y = 0; y < 10; y++)
 		printf("%d", y);
-	printf("\y");
 	return (0);
 }
