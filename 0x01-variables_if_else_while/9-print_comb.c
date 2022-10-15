@@ -14,8 +14,8 @@ int main(void)
 		if (dig == 10)
 			continue;
 
-		putchar(,);
-		putchar( );
+		putchar(',');
+		putchar(' ');
 	}
 	putchar('\n');
 	return (0);
