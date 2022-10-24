@@ -2,7 +2,7 @@
 
 /**
  * _atoi - Entry point
- * @s: Input
+ * @s: input
  * Return: Always 0 (Success)
  */
 int _atoi(char *s)
