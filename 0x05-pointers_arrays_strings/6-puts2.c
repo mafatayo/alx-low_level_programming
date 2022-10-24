@@ -7,7 +7,7 @@
  * Return: print
  */
 
-void puts2(char *s)
+void puts2(char *str)
 {
 	int b;
 
@@ -18,5 +18,5 @@ void puts2(char *s)
 		else
 			continue;
 	}
-	_putchar('\n')
+	_putchar('\n');
 }
