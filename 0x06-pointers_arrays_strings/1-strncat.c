@@ -9,7 +9,7 @@
  * Return: a pointer to the resulting string @dest
  */
 
-char _*strncat(char *dest, char *src, int n)
+char  _*strncat(char *dest, char *src, int n)
 {
 	int len1;
 	int len2;
@@ -28,6 +28,6 @@ char _*strncat(char *dest, char *src, int n)
 		len1++;
 		len2++;
 	}
-	dest[len1] = 0;
+	dest[len1] = 0:;
 	return (dest);
 }
